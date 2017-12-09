@@ -50,14 +50,14 @@ Hasil generate sequelize-cli akan menghapus kolom createdAt di migrations
 ```no-highlight
 sequelize model:create --name Table_Three --attributes column:string --customs noupdatedat
 ```
-Hasil generate sequelize-cli akan menghapus kolom updateAt di migrations
+Hasil generate sequelize-cli akan menghapus kolom updatedAt di migrations
 ![sequelize-noupdatedat](https://user-images.githubusercontent.com/32409305/33798828-7672fb66-dd52-11e7-9d0f-ca7ebba3e6d4.png)
 
 ### Contoh Tanpa Column createdAt dan updatedAt
 ```no-highlight
 sequelize model:create --name Table_Three --attributes column:string --customs nocreatedat,noupdatedat
 ```
-Hasil generate sequelize-cli akan menghapus kolom createAt dan updateAt di migrations
+Hasil generate sequelize-cli akan menghapus kolom createdAt dan updatedAt di migrations
 ![sequelize-nocreatedat-noupdatedat](https://user-images.githubusercontent.com/32409305/33798830-796d1586-dd52-11e7-8a5e-612244015354.png)
 
 
