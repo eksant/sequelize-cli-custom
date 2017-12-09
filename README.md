@@ -6,6 +6,7 @@ Custom version 3.1.0.1 - 10th, Dec 2017
 
 ## Table of Contents  
 [Instalasi](#instalasi)  
+<<<<<<< HEAD
 [Pemakaian](#pemakaian)    
 
 <a name="instalasi"/>
@@ -63,3 +64,15 @@ Hasil generate sequelize-cli akan menghapus kolom createAt dan updateAt di migra
 
 Eksa  
 Email : [eksant@gmail.com](http://mailto:eksant@gmail.com)
+=======
+[Pemakaian](#pemakaian)  
+[Contact](#contact)  
+
+<a name="instalasi"/>  
+## Table of Contents
+### Global
+```no-highlight
+sdfsfdsfs
+```
+![sequelize](https://user-images.githubusercontent.com/32409305/33798231-7310510e-dd47-11e7-9082-66ecae6c89d3.png)
+>>>>>>> f998292970de21654e806470a5ae13cf4d41fd2d
