@@ -63,5 +63,5 @@ Hasil generate sequelize-cli akan menghapus kolom createAt dan updateAt di migra
 
 ---
 
-Eksa  
+Contribution : Eksa  
 Email : [eksant@gmail.com](http://mailto:eksant@gmail.com)
